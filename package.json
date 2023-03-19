@@ -1,6 +1,6 @@
 {
-  "name": "hexo-renderer-inferno",
-  "version": "0.1.2",
+  "name": "@nexmoe/hexo-renderer-inferno",
+  "version": "0.2.0",
   "description": "Inferno.js JSX renderer for Hexo",
   "keywords": [
     "hexo",
@@ -12,12 +12,12 @@
   "main": "index.js",
   "author": "ppoffice <ppoffice@users.noreply.github.com>",
   "maintainers": [
-    "ppoffice <ppoffice@users.noreply.github.com>"
+    "Nexmoe"
   ],
   "license": "MIT",
-  "repository": "https://github.com/hexojs/hexo-renderer-inferno.git",
+  "repository": "https://github.com/nexmoe/hexo-renderer-inferno.git",
   "bugs": {
-    "url": "https://github.com/hexojs/hexo-renderer-inferno/issues"
+    "url": "https://github.com/nexmoe/hexo-renderer-inferno/issues"
   },
   "scripts": {
     "lint": "eslint **/*.{js,jsx}",

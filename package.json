@@ -1,6 +1,6 @@
 {
   "name": "@nexmoe/hexo-renderer-inferno",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Inferno.js JSX renderer for Hexo",
   "keywords": [
     "hexo",
@@ -32,21 +32,21 @@
     "lib/"
   ],
   "dependencies": {
-    "@babel/core": "^7.7.7",
-    "@babel/preset-env": "^7.7.7",
-    "@babel/register": "^7.7.7",
-    "babel-plugin-inferno": "^6.1.0",
-    "inferno": "^7.3.3",
-    "inferno-create-element": "^7.3.3",
-    "inferno-server": "^7.3.3"
+    "@babel/core": "^7.21.3",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/register": "^7.21.0",
+    "babel-plugin-inferno": "^6.6.0",
+    "inferno": "^8.0.6",
+    "inferno-create-element": "^8.0.6",
+    "inferno-server": "^8.0.6"
   },
   "devDependencies": {
-    "chai": "^4.2.0",
-    "eslint": "^7.7.0",
-    "eslint-config-hexo": "^4.1.0",
-    "eslint-plugin-react": "^7.17.0",
+    "chai": "^4.3.7",
+    "eslint": "^7.32.0",
+    "eslint-config-hexo": "^4.2.0",
+    "eslint-plugin-react": "^7.32.2",
     "hexo-fs": "^3.1.0",
-    "mocha": "^8.1.2",
+    "mocha": "^8.4.0",
     "nyc": "^15.1.0"
   },
   "engines": {

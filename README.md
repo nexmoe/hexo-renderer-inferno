@@ -7,7 +7,7 @@
 ## Install
 
 ```sh
-$ npm install hexo-renderer-inferno --save
+npm i @nexmoe/hexo-renderer-inferno --save
 ```
 
 ## Examples
